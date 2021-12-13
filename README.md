@@ -2,6 +2,10 @@
 
 the app was developed using Dash-Plotly with the help of Flask-Login and Sqlite database 
 
+![alt text](https://drive.google.com/file/d/1zKNsnOrhNekpLxO3UhyHH5lv86tmiNN-/view?usp=sharing)
+
+
+![alt text](https://drive.google.com/file/d/1Uv08WCOK9jSADxqsSIj_GQprXyS8J4dD/view?usp=sharing)
 
 
 ![imggg](https://user-images.githubusercontent.com/85415062/131231342-c6153003-fabf-4b13-a8a2-97d2cce20f02.png)
